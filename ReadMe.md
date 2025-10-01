@@ -4,7 +4,7 @@
 
 ## 🚀 Full Stack Developer & DevOps Engineer | 🎓 Computer Science Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Web+Developer;DevOps+%26+Cloud+Enthu---inal+Year+Computer+Science+Engineering;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Web+Developer;DevOps+%26+Cloud+Enthusiast;Final+Year+Computer+Science+Engineering;" alt="Typing SVG" />
 
 </div>
 
@@ -59,7 +59,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" style="margin: 10px;"/> 
   </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 30px;"/> 
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70" style="margin: 10px;"/> 
