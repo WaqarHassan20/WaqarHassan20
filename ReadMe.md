@@ -83,6 +83,8 @@
   </a>
 </p>
 
+---
+
 ### 🌐 Frontend Technologies
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin: 15px;"> 
@@ -122,6 +124,8 @@
   </a>
 </p>
 
+---
+
 ### 🚀 Backend & Runtime
 <p align="center">
   <a href="https://nodejs.org" target="_blank" style="margin: 15px;"> 
@@ -153,6 +157,8 @@
   </a>
 </p>
 
+---
+
 ### 🗄️ Databases & ORMs
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" style="margin: 15px;"> 
@@ -180,6 +186,8 @@
   </a>
 </p>
 
+---
+
 ### 📡 Message Queues & Streaming
 <p align="center">
   <a href="https://kafka.apache.org/" target="_blank" style="margin: 15px;"> 
@@ -198,6 +206,8 @@
     <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" width="50" height="50" style="margin: 10px;"/> 
   </a>
 </p>
+
+---
 
 ### 🔐 Authentication & Authorization
 <p align="center">
@@ -227,6 +237,8 @@
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
   <small>LangChain • LangGraph • LangSmith • LangServe</small>
 </p> -->
+
+---
 
 ### ☁️ Cloud & DevOps
 <p align="center">
@@ -259,6 +271,8 @@
   </a>
 </p>
 
+---
+
 ### 🔧 Infrastructure & Orchestration
 <p align="center">
   <a href="https://www.terraform.io/" target="_blank" style="margin: 15px;"> 
@@ -286,6 +300,8 @@
   </a>
 </p>
 
+---
+
 ### 📊 Monitoring & Observability
 <p align="center">
   <a href="https://prometheus.io/" target="_blank" style="margin: 15px;"> 
@@ -296,6 +312,8 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="50" height="50" style="margin: 10px;"/> 
   </a>
 </p>
+
+---
 
 ### 🚀 CI/CD & Version Control
 <p align="center">
