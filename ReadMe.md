@@ -48,7 +48,7 @@
 
 <div align="center">
 
-#### 💻 Programming Languages & Tools
+### 💻 Programming Languages & Tools
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px;"/> 
@@ -83,7 +83,7 @@
   </a>
 </p>
 
-## 🌐 Frontend Technologies
+### 🌐 Frontend Technologies
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="50" style="margin: 10px;"/> 
@@ -122,7 +122,7 @@
   </a>
 </p>
 
-## 🚀 Backend & Runtime
+### 🚀 Backend & Runtime
 <p align="center">
   <a href="https://nodejs.org" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="50" height="50" style="margin: 10px;"/> 
@@ -153,7 +153,7 @@
   </a>
 </p>
 
-## 🗄️ Databases & ORMs
+### 🗄️ Databases & ORMs
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="50" height="50" style="margin: 10px;"/> 
@@ -180,7 +180,7 @@
   </a>
 </p>
 
-## 📡 Message Queues & Streaming
+### 📡 Message Queues & Streaming
 <p align="center">
   <a href="https://kafka.apache.org/" target="_blank" style="margin: 15px;"> 
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5L_S5QwqANYYUOly_Z_W6YDk24OMZY5Otw&s" alt="Apache Kafka" width="50" height="50" style="margin: 10px;"/> 
@@ -199,7 +199,7 @@
   </a>
 </p>
 
-## 🔐 Authentication & Authorization
+### 🔐 Authentication & Authorization
 <p align="center">
   <a href="https://next-auth.js.org/" target="_blank" style="margin: 15px;"> 
     <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="50" height="50" style="margin: 10px;"/> 
@@ -228,7 +228,7 @@
   <small>LangChain • LangGraph • LangSmith • LangServe</small>
 </p> -->
 
-## ☁️ Cloud & DevOps
+### ☁️ Cloud & DevOps
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="50" height="50" style="margin: 10px;"/> 
@@ -259,7 +259,7 @@
   </a>
 </p>
 
-## 🔧 Infrastructure & Orchestration
+### 🔧 Infrastructure & Orchestration
 <p align="center">
   <a href="https://www.terraform.io/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" style="margin: 10px;"/> 
@@ -286,7 +286,7 @@
   </a>
 </p>
 
-## 📊 Monitoring & Observability
+### 📊 Monitoring & Observability
 <p align="center">
   <a href="https://prometheus.io/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="50" height="50" style="margin: 10px;"/> 
@@ -297,7 +297,7 @@
   </a>
 </p>
 
-## 🚀 CI/CD & Version Control
+### 🚀 CI/CD & Version Control
 <p align="center">
   <a href="https://github.com/features/actions" target="_blank" style="margin: 15px;"> 
     <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="50" height="50" style="background-color: white; padding: 12px; border-radius: 8px; margin: 10px;"/> 
