@@ -48,9 +48,7 @@
 
 <div align="center">
 
-# 🛠️ Tech Stack & Skills
-
-## 💻 Programming Languages & Tools
+# 💻 Programming Languages & Tools
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px;"/> 
@@ -265,6 +263,10 @@
 <p align="center">
   <a href="https://www.terraform.io/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="50" height="50" style="margin: 10px;"/> 
+  </a>
+  &nbsp;&nbsp;
+    <a href="https://www.vaultproject.io/" target="_blank" style="margin: 15px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg" alt="Vault" width="50" height="50" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://www.ansible.com/" target="_blank" style="margin: 15px;"> 
