@@ -6,12 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Web+Developer;DevOps+%26+Cloud+Enthusiast;Final+Year+Computer+Science;Building+Next-Gen+Solutions" alt="Typing SVG" />
 
-</div> I'm Waqar Hassan
-
-## 🚀 Full Stack Developer & DevOps Engineer | 🎓 Computer Science Student
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Full+Stack+Web+Developer;DevOps+%26+Cloud+Enthusiast;Final+Year+CSE" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -51,102 +45,168 @@
 
 ## 🛠️ Tech Stack & Expertise
 
-### 💻 Frontend Development
+### 💻 Programming Languages & Tools
 <p align="center">
-  <a href="https://html.spec.whatwg.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="60" height="60"/>
-  </a>
-  <a href="https://www.w3.org/Style/CSS/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="60" height="60"/>
-  </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="55" height="55"/>
   </a>
   <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="55" height="55"/>
   </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="60" height="60"/>
+  <a href="https://www.python.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="55" height="55"/>
+  </a>
+  <a href="https://www.cprogramming.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="55" height="55"/>
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="55" height="55"/>
+  </a>
+  <a href="https://www.java.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="55" height="55"/>
+  </a>
+</p>
+<p align="center">
+  <strong>JavaScript • TypeScript • Python • C • C++ • Java</strong>
+</p>
+
+### 🌐 Frontend Technologies
+<p align="center">
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="55" height="55"/>
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="55" height="55"/>
   </a>
   <a href="https://tailwindcss.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="55" height="55"/>
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="55" height="55"/>
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="55" height="55" style="filter: invert(1);"/>
+  </a>
+  <a href="https://www.chartjs.org/" target="_blank">
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="55" height="55"/>
   </a>
 </p>
 <p align="center">
-  <strong>HTML5 • CSS3 • JavaScript • TypeScript • React • Tailwind CSS</strong>
+  <strong>HTML5 • CSS3 • Tailwind CSS • React • Next.js • Chart.js</strong>
 </p>
 
-### 🚀 Backend Development
+### 🚀 Backend & Runtime
 <p align="center">
   <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="55" height="55"/>
   </a>
   <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="60" height="60" style="filter: invert(1);"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="55" height="55" style="filter: invert(1);"/>
   </a>
-  <a href="https://jwt.io/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/jwt-3.svg" alt="JWT" width="60" height="60"/>
+  <a href="https://fastapi.tiangolo.com/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="55" height="55"/>
+  </a>
+  <a href="https://graphql.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="55" height="55"/>
   </a>
   <a href="https://www.postman.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="55" height="55"/>
   </a>
 </p>
 <p align="center">
-  <strong>Node.js • Express.js • JWT • API Testing</strong>
+  <strong>Node.js • Express.js • FastAPI • GraphQL • API Testing</strong>
 </p>
 
-### 🗄️ Database Technologies
+### 🗄️ Databases & ORMs
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="55" height="55"/>
+  </a>
+  <a href="https://www.postgresql.org" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="55" height="55"/>
   </a>
   <a href="https://www.mysql.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="55" height="55"/>
   </a>
   <a href="https://www.prisma.io/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="55" height="55"/>
+  </a>
+  <a href="https://redis.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="55" height="55"/>
   </a>
 </p>
 <p align="center">
-  <strong>MongoDB • MySQL • Prisma ORM</strong>
+  <strong>MongoDB • PostgreSQL • MySQL • Prisma ORM • Redis</strong>
 </p>
 
-### ☁️ DevOps & Cloud Technologies
+### ☁️ Cloud & DevOps
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="AWS" width="55" height="55"/>
   </a>
   <a href="https://www.docker.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="55" height="55"/>
   </a>
-  <a href="https://github.com/features/actions" target="_blank">
-    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="60" height="60"/>
+  <a href="https://kubernetes.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="55" height="55"/>
   </a>
   <a href="https://www.nginx.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="60" height="60"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="55" height="55"/>
   </a>
   <a href="https://vercel.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="60" height="60" style="filter: invert(1);"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="Vercel" width="55" height="55" style="filter: invert(1);"/>
+  </a>
+  <a href="https://www.terraform.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="55" height="55"/>
   </a>
 </p>
 <p align="center">
-  <strong>AWS • Docker • CI/CD • Nginx • Vercel</strong>
+  <strong>AWS • Docker • Kubernetes • Nginx • Vercel • Terraform</strong>
 </p>
 
-### 🔧 Development Tools
+### 🔧 CI/CD & Version Control
 <p align="center">
   <a href="https://git-scm.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="60" height="60"/>
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="55" height="55"/>
   </a>
   <a href="https://github.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="60" height="60" style="filter: invert(1);"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="GitHub" width="55" height="55" style="filter: invert(1);"/>
   </a>
-  <a href="https://www.canva.com/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="60" height="60"/>
+  <a href="https://github.com/features/actions" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="55" height="55"/>
+  </a>
+  <a href="https://www.jenkins.io" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="55" height="55"/>
   </a>
 </p>
 <p align="center">
-  <strong>Git • GitHub • Design Tools</strong>
+  <strong>Git • GitHub • GitHub Actions • Jenkins</strong>
+</p>
+
+### 📊 Monitoring & Observability
+<p align="center">
+  <a href="https://prometheus.io/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="55" height="55"/>
+  </a>
+  <a href="https://grafana.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="55" height="55"/>
+  </a>
+</p>
+<p align="center">
+  <strong>Prometheus • Grafana</strong>
+</p>
+
+### 🔍 Additional Tools
+<p align="center">
+  <a href="https://www.canva.com/" target="_blank">
+    <img src="https://cdn.worldvectorlogo.com/logos/canva-1.svg" alt="Canva" width="55" height="55"/>
+  </a>
+  <a href="https://jupyter.org/" target="_blank">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="55" height="55"/>
+  </a>
+</p>
+<p align="center">
+  <strong>Design Tools • Jupyter Notebooks</strong>
 </p>
 
 </div>
