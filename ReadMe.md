@@ -48,7 +48,7 @@
 
 <div align="center">
 
-# 💻 Programming Languages & Tools
+#### 💻 Programming Languages & Tools
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px;"/> 
