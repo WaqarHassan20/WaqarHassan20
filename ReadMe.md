@@ -276,7 +276,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://argoproj.github.io/cd/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/dekdlvicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="50" height="50" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://turbo.build/" target="_blank" style="margin: 15px;"> 
@@ -361,12 +361,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
----
-
-## � Profile Visitors
-
-![Visitor Count](https://profile-counter.glitch.me/WaqarHassan20/count.svg)
 
 ---
 
