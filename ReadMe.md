@@ -20,7 +20,6 @@
 🌱 Currently exploring **Cloud Architecture** and **Microservices**  
 💡 Love building **efficient, scalable, user-friendly apps**  
 📫 Reach me at **waqarkhalid2024@gmail.com**
-📫 Reach me at **waqarhasan2026@gmail.com**
 
 ---
 
@@ -54,13 +53,13 @@
 ## 💻 Programming Languages & Tools
 <p align="center">
   <a href="https://www.cprogramming.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" style="margin: 10px;"/> 
   </a>
-  &nbsp
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 30px;"/> 
   </a>
@@ -72,6 +71,7 @@
   <a href="https://www.python.org" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin: 10px;"/> 
   </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jupyter.org/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="70" height="70" style="margin: 10px;"/> 
   </a>
@@ -137,17 +137,17 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bun.sh/" target="_blank" style="margin: 15px;"> 
-    <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Bun" width="70" height="70" style="margin: 10px;"/> 
   </a>
+    <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Bun" width="70" height="70" style="margin: 10px;"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" style="margin: 15px;"> 
     <img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express.js" width="70" height="70" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://fastapi.tiangolo.com/" target="_blank" style="margin: 15px;"> 
+  <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="margin: 10px;"/> 
   </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://hono.dev/" target="_blank" style="margin: 15px;"> 
     <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" alt="Hono" width="70" height="70" style="margin: 10px;"/> 
   </a>
@@ -226,7 +226,7 @@
   <small>NextAuth.js</small>
 </p>
 
-## 🤖 AI & LangChain Ecosystem
+<!-- ## 🤖 AI & LangChain Ecosystem
 <p align="center">
   <a href="https://www.langchain.com/" target="_blank" style="margin: 15px;">
     <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangChain" width="70" height="70" style="border-radius: 8px; margin: 10px;"/>
@@ -246,7 +246,7 @@
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
   <small>LangChain • LangGraph • LangSmith • LangServe</small>
-</p>
+</p> -->
 
 ## ☁️ Cloud & DevOps
 <p align="center">
