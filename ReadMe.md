@@ -57,31 +57,31 @@
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/cpp/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="70" height="70" style="margin: 30px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" style="margin: 30px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.typescriptlang.org/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.python.org" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jupyter.org/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original-wordmark.svg" alt="Jupyter" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.java.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40" style="margin: 10px;"/> 
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
@@ -91,39 +91,39 @@
 ## 🌐 Frontend Technologies
 <p align="center">
   <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://tailwindcss.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://reactjs.org/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://zustand-demo.pmnd.rs/" target="_blank" style="margin: 15px;"> 
-    <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://user-images.githubusercontent.com/958486/218346783-72be5ae3-b953-4dd7-b239-788a882fdad6.svg" alt="Zustand" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.chartjs.org/" target="_blank" style="margin: 15px;"> 
-    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://www.chartjs.org/media/logo-title.svg" alt="Chart.js" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://nextjs.org/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://ui.shadcn.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://avatars.githubusercontent.com/u/124599?s=200&v=4" alt="Shadcn/ui" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://avatars.githubusercontent.com/u/124599?s=200&v=4" alt="Shadcn/ui" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://jestjs.io/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="70" height="70" style="background-color: white; padding: 8px; border-radius: 8px; margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="40" height="40" style="background-color: white; padding: 8px; border-radius: 8px; margin: 10px;"/> 
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
@@ -133,31 +133,31 @@
 ## 🚀 Backend & Runtime
 <p align="center">
   <a href="https://nodejs.org" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://bun.sh/" target="_blank" style="margin: 15px;"> 
   </a>
-    <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Bun" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Bun" width="40" height="40" style="margin: 10px;"/> 
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" style="margin: 15px;"> 
-    <img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express.js" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express.js" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <!-- <a href="https://fastapi.tiangolo.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp; -->
   <a href="https://hono.dev/" target="_blank" style="margin: 15px;"> 
-    <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" alt="Hono" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://avatars.githubusercontent.com/u/98495527?s=280&v=4" alt="Hono" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://graphql.org/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" alt="GraphQL" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.postman.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" style="margin: 10px;"/> 
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
@@ -167,27 +167,27 @@
 ## 🗄️ Databases & ORMs
 <p align="center">
   <a href="https://www.mongodb.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.postgresql.org" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.prisma.io/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://redis.io" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="Redis" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://clickhouse.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" alt="ClickHouse" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://avatars.githubusercontent.com/u/54801242?s=200&v=4" alt="ClickHouse" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.timescale.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://assets.tigerdata.com/timescale-web/shared/logo/black-badge-animated.gif" alt="TimescaleDB" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://assets.tigerdata.com/timescale-web/shared/logo/black-badge-animated.gif" alt="TimescaleDB" width="40" height="40" style="margin: 10px;"/> 
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
@@ -197,19 +197,19 @@
 ## 📡 Message Queues & Streaming
 <p align="center">
   <a href="https://kafka.apache.org/" target="_blank" style="margin: 15px;"> 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5L_S5QwqANYYUOly_Z_W6YDk24OMZY5Otw&s" alt="Apache Kafka" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-5L_S5QwqANYYUOly_Z_W6YDk24OMZY5Otw&s" alt="Apache Kafka" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.rabbitmq.com" target="_blank" style="margin: 15px;"> 
-    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/rabbitmq/rabbitmq-icon.svg" alt="RabbitMQ" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://redis.io/docs/data-types/streams/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Streams" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis Streams" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://socket.io/" target="_blank" style="margin: 15px;"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://cdn.worldvectorlogo.com/logos/socket-io.svg" alt="Socket.IO" width="40" height="40" style="margin: 10px;"/> 
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
@@ -219,7 +219,7 @@
 ## 🔐 Authentication & Authorization
 <p align="center">
   <a href="https://next-auth.js.org/" target="_blank" style="margin: 15px;"> 
-    <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://next-auth.js.org/img/logo/logo-sm.png" alt="NextAuth.js" width="40" height="40" style="margin: 10px;"/> 
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
@@ -229,19 +229,19 @@
 <!-- ## 🤖 AI & LangChain Ecosystem
 <p align="center">
   <a href="https://www.langchain.com/" target="_blank" style="margin: 15px;">
-    <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangChain" width="70" height="70" style="border-radius: 8px; margin: 10px;"/>
+    <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangChain" width="40" height="40" style="border-radius: 8px; margin: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.langchain.com/langgraph" target="_blank" style="margin: 15px;">
-    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="LangGraph" width="70" height="70" style="border-radius: 8px; margin: 10px;"/>
+    <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="LangGraph" width="40" height="40" style="border-radius: 8px; margin: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.langchain.com/langsmith" target="_blank" style="margin: 15px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjS5fJvvxHS5ME1rtaNWaEnrbAL03ndhJiA&s" alt="LangSmith" width="70" height="70" style="border-radius: 8px; margin: 10px;"/>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjS5fJvvxHS5ME1rtaNWaEnrbAL03ndhJiA&s" alt="LangSmith" width="40" height="40" style="border-radius: 8px; margin: 10px;"/>
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://python.langchain.com/docs/langserve" target="_blank" style="margin: 15px;">
-    <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangServe" width="70" height="70" style="border-radius: 8px; margin: 10px;"/>
+    <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangServe" width="40" height="40" style="border-radius: 8px; margin: 10px;"/>
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
@@ -251,27 +251,27 @@
 ## ☁️ Cloud & DevOps
 <p align="center">
   <a href="https://aws.amazon.com" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.digitalocean.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/digitalocean/digitalocean-original.svg" alt="DigitalOcean" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.cloudflare.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloudflare/cloudflare-original.svg" alt="Cloudflare" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.docker.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://kubernetes.io" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.nginx.com" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="Nginx" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.gnu.org/software/bash/" target="_blank" style="margin: 15px;"> 
@@ -285,27 +285,27 @@
 ## 🔧 Infrastructure & Orchestration
 <p align="center">
   <a href="https://www.terraform.io/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="Terraform" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.vaultproject.io/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg" alt="Vault" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vault/vault-original.svg" alt="Vault" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.ansible.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" alt="Ansible" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://helm.sh/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/helm/helm-original.svg" alt="Helm" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://argoproj.github.io/cd/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/dekdlvicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/dekdlvicon/master/icons/argocd/argocd-original.svg" alt="ArgoCD" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://turbo.build/" target="_blank" style="margin: 15px;"> 
-    <img src="https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg" alt="Turborepo" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg" alt="Turborepo" width="40" height="40" style="margin: 10px;"/> 
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
@@ -315,11 +315,11 @@
 ## 📊 Monitoring & Observability
 <p align="center">
   <a href="https://prometheus.io/" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prometheus/prometheus-original.svg" alt="Prometheus" width="40" height="40" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://grafana.com" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/grafana/grafana-original.svg" alt="Grafana" width="40" height="40" style="margin: 10px;"/> 
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
@@ -329,14 +329,14 @@
 ## 🚀 CI/CD & Version Control
 <p align="center">
   <a href="https://github.com/features/actions" target="_blank" style="margin: 15px;"> 
-    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="70" height="70" style="background-color: white; padding: 12px; border-radius: 8px; margin: 10px;"/> 
+    <img src="https://github.githubassets.com/images/modules/site/features/actions-icon-actions.svg" alt="GitHub Actions" width="40" height="40" style="background-color: white; padding: 12px; border-radius: 8px; margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.jenkins.io" target="_blank" style="margin: 15px;"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="40" height="40" style="margin: 10px;"/> 
   </a>
   <a href="https://git-scm.com/" target="_blank" style="margin: 15px;"> 
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="70" height="70" style="margin: 10px;"/> 
+    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" style="margin: 10px;"/> 
   </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
