@@ -122,6 +122,14 @@
   <a href="https://jestjs.io/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jest/jest-plain.svg" alt="Jest" width="50" height="50" style="background-color: white; padding: 8px; border-radius: 8px; margin: 10px;"/> 
   </a>
+  &nbsp;&nbsp;
+  <a href="https://vitest.dev/" target="_blank" style="margin: 15px;"> 
+    <img src="https://vitest.dev/logo.svg" alt="Vitest" width="50" height="50" style="margin: 10px;"/> 
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.cypress.io/" target="_blank" style="margin: 15px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg" alt="Cypress" width="50" height="50" style="margin: 10px;"/> 
+  </a>
 </p>
 
 ---
@@ -155,6 +163,14 @@
   <a href="https://www.postman.com/" target="_blank" style="margin: 15px;"> 
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="50" height="50" style="margin: 10px;"/> 
   </a>
+  &nbsp;&nbsp;
+  <a href="https://trpc.io/" target="_blank" style="margin: 15px;"> 
+    <img src="https://trpc.io/img/logo.svg" alt="tRPC" width="50" height="50" style="margin: 10px;"/> 
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.openapis.org/" target="_blank" style="margin: 15px;"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/openapi/openapi-original.svg" alt="OpenAPI" width="50" height="50" style="margin: 10px;"/> 
+  </a>
 </p>
 
 ---
@@ -171,6 +187,10 @@
   &nbsp;&nbsp;
   <a href="https://www.prisma.io/" target="_blank" style="margin: 15px;"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="50" height="50" style="margin: 10px;"/> 
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://orm.drizzle.team/" target="_blank" style="margin: 15px;"> 
+    <img src="https://avatars.githubusercontent.com/u/108468352?s=200&v=4" alt="Drizzle ORM" width="50" height="50" style="margin: 10px;"/> 
   </a>
   &nbsp;&nbsp;
   <a href="https://redis.io" target="_blank" style="margin: 15px;"> 
@@ -216,7 +236,7 @@
   </a>
 </p>
 
-<!-- ## 🤖 AI & LangChain Ecosystem
+## 🤖 AI & LangChain Ecosystem
 <p align="center">
   <a href="https://www.langchain.com/" target="_blank" style="margin: 15px;">
     <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangChain" width="50" height="50" style="border-radius: 8px; margin: 10px;"/>
@@ -236,7 +256,7 @@
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
   <small>LangChain • LangGraph • LangSmith • LangServe</small>
-</p> -->
+</p>
 
 ---
 
