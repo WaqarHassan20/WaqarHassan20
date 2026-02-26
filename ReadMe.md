@@ -245,14 +245,6 @@
   <a href="https://www.langchain.com/langgraph" target="_blank" style="margin: 15px;">
     <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/langgraph.png" alt="LangGraph" width="50" height="50" style="border-radius: 8px; margin: 10px;"/>
   </a>
-  &nbsp;&nbsp;
-  <a href="https://www.langchain.com/langsmith" target="_blank" style="margin: 15px;">
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJjS5fJvvxHS5ME1rtaNWaEnrbAL03ndhJiA&s" alt="LangSmith" width="50" height="50" style="border-radius: 8px; margin: 10px;"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://python.langchain.com/docs/langserve" target="_blank" style="margin: 15px;">
-    <img src="https://cdn.brandfetch.io/idzf7Sjo28/w/400/h/400/theme/dark/icon.jpeg?c=1bxid64Mup7aczewSAYMX&t=1751438886561" alt="LangServe" width="50" height="50" style="border-radius: 8px; margin: 10px;"/>
-  </a>
 </p>
 <p align="center" style="font-size: 8px; color: #888; margin-top: 15px;">
   <small>LangChain • LangGraph • LangSmith • LangServe</small>
