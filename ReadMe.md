@@ -1,10 +1,8 @@
 <div align="center">
 
-# Hi 👋, I'm Waqar Hassan
+# Hi 👋, I'm Waqar UL Hassan
 
-## 🚀 Full Stack Developer & DevOps Engineer | 🎓 Computer Science Engineer
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Web+Developer;DevOps+%26+Cloud+Enthusiast;Arch+User+BTW;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F5FF&center=true&vCenter=true&multiline=true&width=700&height=120&lines=Full+Stack+Web;DevOps+%26+Cloud+Enthusiast;Arch+User+BTW;" alt="Typing SVG" />
 
 </div>
 
