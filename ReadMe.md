@@ -352,8 +352,13 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img height="200" src="https://github-readme-stats.vercel.app/api?username=WaqarHassan20&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=ffffff&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=WaqarHassan20&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=ffffff&langs_count=8" alt="Top Languages" />
+  <a href="https://github.com/WaqarHassan20" target="_blank">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WaqarHassan20&theme=tokyonight" alt="GitHub Profile Details" />
+  </a>
+</p>
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=WaqarHassan20&theme=tokyonight" alt="GitHub Stats" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WaqarHassan20&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ### 🐍 GitHub Contribution Snake
