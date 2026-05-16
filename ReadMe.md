@@ -139,8 +139,8 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://bun.sh/" target="_blank" style="margin: 15px;"> 
-  </a>
     <img src="https://user-images.githubusercontent.com/709451/182802334-d9c42afe-f35d-4a7b-86ea-9985f73f20c3.png" alt="Bun" width="50" height="50" style="margin: 10px;"/> 
+  </a>
   &nbsp;&nbsp;
   <a href="https://expressjs.com" target="_blank" style="margin: 15px;"> 
     <img src="https://camo.githubusercontent.com/86f61f7d4367c71a580e11af0bcd4f333d1b967225a679a12998657db1307dd3/68747470733a2f2f692e636c6f756475702e636f6d2f7a6659366c4c376546612d3330303078333030302e706e67" alt="Express.js" width="50" height="50" style="margin: 10px;"/> 
@@ -348,7 +348,7 @@
 <div align="center">
 
 ### 🔥 Streak Stats
-![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=WaqarHassan20&theme=tokyonight&hide_border=true&stroke=0000&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)
+[![GitHub Streak](https://streak-stats.demolab.com?user=WaqarHassan20&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakLabel=00F5FF)](https://git.io/streak-stats)
 
 ### 📈 GitHub Stats
 <p align="center">
